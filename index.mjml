@@ -29,7 +29,7 @@
    <mj-section background-color="white">
 
         <mj-column>
-            <mj-image " src="https://www.blackhillsenergy.com/sites/blackhillsenergy.com/files/earth-day-landing-header-1200x371.jpg"> 
+            <mj-image  src="https://www.blackhillsenergy.com/sites/blackhillsenergy.com/files/earth-day-landing-header-1200x371.jpg"> 
             </mj-image>
 
             <mj-text font-family="Raleway"> 
