@@ -18,7 +18,7 @@
     <mj-section background-color="#444444">
 
         <mj-column>
-            <mj-text color="white" align = "center" font-size="25px"> 
+            <mj-text font-family="Raleway" color="white" align = "center" font-size="25px"> 
             7 ways to celebrate Earth Day, every day.
             </mj-text>
         </mj-column>
@@ -78,7 +78,7 @@
 
         <mj-column>
 
-            <mj-text color="white" align="center">
+            <mj-text font-family="Raleway" color="white" align="center">
             Copyright © 2022 Black Hills Energy
             </mj-text>
         </mj-column>
