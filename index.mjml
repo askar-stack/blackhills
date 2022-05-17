@@ -1,6 +1,9 @@
 <mjml>
 
-<mj-head></mj-head>
+<mj-head>
+<mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+
+</mj-head>
 
 <mj-body>
 
@@ -29,12 +32,43 @@
             <mj-image " src="https://www.blackhillsenergy.com/sites/blackhillsenergy.com/files/earth-day-landing-header-1200x371.jpg"> 
             </mj-image>
 
-            <mj-text> 
+            <mj-text font-family="Raleway"> 
+             Each year, millions of people around the world join on Earth Day, Aprill 22, to make a positive impact on our planet. But you don’t have to wait until Earth Day to make an impact.
             </mj-text>
+
+            <mj-text font-family="Raleway"> 
+                You can make a difference in your community and the world every day with these ideas.
+            </mj-text>
+
         </mj-column>
 
     </mj-section>
 
+
+
+   <mj-section background-color="white">
+
+        <mj-column>
+            <mj-image width="200px" src="https://www.blackhillsenergy.com/sites/blackhillsenergy.com/files/inline-images/tree-icon-240x240%20%282%29.jpg">
+            </mj-image>
+        </mj-column>
+
+
+        <mj-column>
+           
+
+            <mj-text padding-top="25px" font-weight="600" font-size="18px" font-family="Raleway"> 
+            1. Plant trees
+            </mj-text>
+
+            <mj-text font-family="Raleway"> 
+                Planting trees is something we feel strongly about at Black Hills Energy. In Story City, Iowa, alone, we have helped plant more than 3,200 trees. 
+            
+            </mj-text>
+
+        </mj-column>
+
+    </mj-section>
 
 </mj-body>
 
