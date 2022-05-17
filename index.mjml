@@ -1,0 +1,43 @@
+<mjml>
+
+<mj-head></mj-head>
+
+<mj-body>
+
+    <mj-section background-color="white">
+
+        <mj-column>
+<mj-image width=150px src=https://www.blackhillscorp.com/sites/all/themes/blackhills/logobhc.png></mj-image>
+        </mj-column>
+
+    </mj-section>
+
+    <mj-section background-color="#444444">
+
+        <mj-column>
+            <mj-text color="white" align = "center" font-size="25px"> 
+            7 ways to celebrate Earth Day, every day
+            </mj-text>
+        </mj-column>
+
+    </mj-section>
+
+
+   <mj-section background-color="white">
+
+        <mj-column>
+            <mj-image " src="https://www.blackhillsenergy.com/sites/blackhillsenergy.com/files/earth-day-landing-header-1200x371.jpg"> 
+            </mj-image>
+
+            <mj-text> 
+            </mj-text>
+        </mj-column>
+
+    </mj-section>
+
+
+</mj-body>
+
+
+
+</mjml>
