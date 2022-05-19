@@ -70,9 +70,51 @@
 
     </mj-section>
 
+    <mj-section background-color="white">
+
+        <mj-column>
+            <mj-image width="200px" src="https://www.blackhillsenergy.com/sites/blackhillsenergy.com/files/inline-images/trash-icon-240x240.jpg">
+            </mj-image>
+        </mj-column>
 
 
+        <mj-column>
+           
 
+            <mj-text padding-top="25px" font-weight="600" font-size="18px" font-family="Raleway"> 
+            2. Pickup trash
+            </mj-text>
+
+            <mj-text font-family="Raleway"> 
+                Picking up trash may not be glamorous, but it’s an awesome way to make your community more beautiful.  
+            </mj-text>
+
+        </mj-column>
+
+    </mj-section>
+
+    <mj-section background-color="white">
+
+        <mj-column>
+            <mj-image width="200px" src="https://www.blackhillsenergy.com/sites/blackhillsenergy.com/files/inline-images/sustainable-home-icon-240x240.jpg">
+            </mj-image>
+        </mj-column>
+
+
+        <mj-column>
+           
+
+            <mj-text padding-top="25px" font-weight="600" font-size="18px" font-family="Raleway"> 
+            3. Sustainability at home.
+            </mj-text>
+
+            <mj-text font-family="Raleway"> 
+                Picking up trash may not be glamorous, but it’s an awesome way to make your community more beautiful.  
+            </mj-text>
+
+        </mj-column>
+
+    </mj-section>
 
     <mj-section background-color="#444444">
 
