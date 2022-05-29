@@ -10,7 +10,7 @@
     <mj-section background-color="white">
 
         <mj-column>
-<mj-image width=150px src=https://www.blackhillscorp.com/sites/all/themes/blackhills/logobhc.png></mj-image>
+<mj-image href="https://www.blackhillsenergy.com/"  width=150px src=https://www.blackhillscorp.com/sites/all/themes/blackhills/logobhc.png></mj-image>
         </mj-column>
 
     </mj-section>
@@ -29,7 +29,7 @@
    <mj-section background-color="white">
 
         <mj-column>
-            <mj-image  src="https://www.blackhillsenergy.com/sites/blackhillsenergy.com/files/earth-day-landing-header-1200x371.jpg"> 
+            <mj-image  href="https://www.blackhillsenergy.com/blog/7-ways-to-celebrate-earth-day-every-day" src="https://www.blackhillsenergy.com/sites/blackhillsenergy.com/files/earth-day-landing-header-1200x371.jpg"> 
             </mj-image>
 
             <mj-text font-family="Raleway"> 
