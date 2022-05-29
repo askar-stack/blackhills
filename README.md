@@ -8,6 +8,3 @@ The layout is simple as it was my first time using this framework. As I get more
 
 The great thing about MJML is that I do not have to worry about how this email would look in different clients!
 
-## improvements
-
-One thing I could have added was a link to the company's home page with the logo. It's easy to do but I didn't want the user to get distracted and check the company out. Eyes on the email!
